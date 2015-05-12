@@ -14,7 +14,7 @@ The recipes in this book are intended to help you cope with these people called 
   * Doctoral and Post-Doctoral students who will spend the next 3-7 years of their life on a single topic, desperatly trying to get beyond the conference poster and into that top tier journal so they might have a chance at becoming a slave for another ten years as an ECR ;-)
   * Postgraduate students.  Masters students struglling with the decision of carrying on to do a PhD, dreams of grandeur with one in one hundred who will change the world with their ideas!
 
-As you can see by the above, we do not like to discrimnate on who can call themselves a "researcher" - we value all researcher contributions regardless of age or stage in their carreer.  Though, we are somewhat biased on one front: our belief that modern research is usually collaborative.  Sure, there is the exception to the rule, but on the whole we don't think most researchers are still doing this:
+As you can see by the above, we do not like to discrimnate on who can call themselves a "researcher" - we value all researcher contributions regardless of age or stage in their carreer.  Though, we are somewhat biased on one front: our belief that modern research is usually collaborative.  Sure, there is the exception to the rule, but on the whole we do NOT think most researchers are still doing this:
 
 ![Rodin's 'The Thinker'](http://legionofhonor.famsf.org/files/imagecache/exhibition_preview_large/thinker.jpg)
 
