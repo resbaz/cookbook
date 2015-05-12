@@ -2,13 +2,11 @@
 
 This cookbook is for anyone and everyone whose job it is to work with researchers.  It's a tough ole job working with researchers and we want to help you do your job better (ipso facto, enabling researchers to 'stand on the shoulders of mere mortals' like yourself, so we can all help contribute to the great research ideas which will make our world a better place). Who should read this cookbook? - You should have a [browse of the recipes in this book](https://github.com/resbaz/cookbook/wiki) if:
 
-![By "researcher" we mean anyone at any age or stage in their career](http://cdn.arstechnica.net/wp-content/uploads/2011/09/phd072011s-4e6f64b-intro.gif)
-
   * your job description includes the words "research support" or your day-to-day job includes talking and working with researchers in situ.
   * you are interested in how the world is going to change now that researchers are learning to use the latest digital research skills emerging on the Web everyday (afterall machines are themselves excellent research companions with an incredible capacity to lift information in a single bound!).  
 
 The recipes in this book are intended to help you cope with these people called "researchers" (difficult customers as they are, it is worth it).  And by "researcher" we mean any and all of the following:
-
+![By "researcher" we mean anyone at any age or stage in their career](http://cdn.arstechnica.net/wp-content/uploads/2011/09/phd072011s-4e6f64b-intro.gif)
   * Senior researchers (those who roam the halls of the ivory tower and often own their own castle/cathedral on campus, usually with titles from the medieval ages such as chancellor, associate professor, deputy associate dean, professor, associate professor, provost, chair and the last but certainly not least the all powerful "reader"!)
   * Sixth form students who are looking to go onto University and change the world.  Old souls in young bods who could be the next Stephen Hawking or Rosalind Franklin (did you know most Noble Peace Prize winners had their 'Eureka moments' before the age of 35!)
   * Middle carreer researchers, who work day and night, weekends and holidays.  The smart kids who are also brainiac endurance athletes, fighting against all odds to attain the unattainable: the title of 'professor'!
