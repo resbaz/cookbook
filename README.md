@@ -20,7 +20,7 @@ As you can see by the above, we do not like to discrimnate on who can call thems
 
 Rather, we believe that great research teams will be a group of richly diverse people whom all have an equally important part in bringing the research idea (via publication of TED talk) to the world... Welcome to the Bazaar (more on why we call this the "research bazaar" (aka #ResBaz later).
 
-![Well maybe a research team which is a bit more functional than this](http://www.phdcomics.com/comics/archive/phd060406s.gif)
+![Why researcher teams need help](http://www.phdcomics.com/comics/archive/phd060406s.gif)
 
 The kinds of people who typically read the recipes in this cookbook and contribute their own recipes include (but are not limited to):
 
@@ -32,7 +32,7 @@ The kinds of people who typically read the recipes in this cookbook and contribu
 
 Ok enough on whom and why you should read this, and onto the recipes!
 
-Ah wait, one more thing!  This cookbook has been written via GitHub so that anyone can come along and rewrite it!  In fact, we have used the metaphor of "cookbook" so that you can take any of the recipes and rewrite them to fit your organisational point of view.  We have licensed this cookbook and all it recipes within it via a "creative-commons-share-alike" license which means you should expect other people to come along and copy your recipes so they can rewrite them as well <-- think about all the lovely new dishes we'll be able to share with one another!
+Ah wait, one more thing!  This cookbook has been written via a GitHub wiki so that anyone can come along and rewrite it!  In fact, we have used the metaphor of "cookbook" so that you can take any of the recipes and rewrite them to fit your organisational point of view.  We have licensed this cookbook and all it recipes within it via a "creative-commons-share-alike" license which means you should expect other people to come along and copy your recipes so they can rewrite them as well <-- think about all the lovely new dishes we'll be able to share with one another!
 
 So what are you waiting for, head over to the wiki now and check out the ResBaz Recipes: https://github.com/resbaz/cookbook/wiki
 
