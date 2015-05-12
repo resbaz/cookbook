@@ -1,6 +1,6 @@
 # Welcome to the ResBaz Cookbook
 
-This cookbook is for anyone and everyone whose job it is to work with researchers.  It's a tough ole job working with researchers and we want to help you do your job better (ipso facto, enabling researchers to 'stand on the shoulders of mere mortals' like yourself, so we can all help contribute to the great research ideas which will make our world a better place). Who should read this cookbook? - You should have a [browse of the recipes in this book](https://github.com/resbaz/cookbook/wiki) if:
+This cookbook is for anyone and everyone whose job it is to work with researchers.  It's a tough ole job working with researchers and we want to help you do your job better (ipso facto, enabling researchers to "stand on the shoulders of mere mortals" like yourself, so we can all help contribute to the great research ideas which will make our world a better place). Who should read this cookbook? - You should have a [browse of the recipes in this book](https://github.com/resbaz/cookbook/wiki) if:
 
   * your job description includes the words "research support" or your day-to-day job includes talking and working with researchers in situ.
   * you are interested in how the world is going to change now that researchers are learning to use the latest digital research skills emerging on the Web everyday (afterall machines are themselves excellent research companions with an incredible capacity to lift information in a single bound!).  
@@ -13,6 +13,7 @@ The recipes in this book are intended to help you cope with these people called 
   * Undergraduates who show promise in their studious behaviour and even have some plausible ideas for experiments which can build on the research work of their professors, maybe even get a publication or two.  Some of these brave souls might even have a brilliant idea for a startup making research valuable to the masses!
   * Doctoral and Post-Doctoral students who will spend the next 3-7 years of their life on a single topic, desperatly trying to get beyond the conference poster and into that top tier journal so they might have a chance at becoming a slave for another ten years as an ECR ;-)
   * Postgraduate students.  Masters students struglling with the decision of carrying on to do a PhD, dreams of grandeur with one in one hundred who will change the world with their ideas!
+  * The rare yet beautiful "[Reader](http://en.wikipedia.org/wiki/Reader_%28academic_rank%29)" <--yes their is a rank even more important than professor ;-)
 
 As you can see by the above, we do not like to discrimnate on who can call themselves a "researcher" - we value all researcher contributions regardless of age or stage in their carreer.  Though, we are somewhat biased on one front: our belief that modern research is usually collaborative.  Sure, there is the exception to the rule, but on the whole we do NOT think most researchers are still doing this:
 
@@ -30,7 +31,7 @@ The kinds of people who typically read the recipes in this cookbook and contribu
   * Librarian who wants to help researchers with the latest digital research tools but not sure where to begin?!
   * Or perhaps you are like us: one of the new up and coming central University departments dedicated to helping researchers with digital tooling and data?!  (Hint: we help you with all those research tools which are not Microsoft Office).
 
-Ok enough on whom and why you should read this, and onto the recipes!
+Ok enough on whom and why you should read this, and onto the ResBaz recipes!
 
 Ah wait, one more thing!  This cookbook has been written via a GitHub wiki so that anyone can come along and rewrite it!  In fact, we have used the metaphor of "cookbook" so that you can take any of the recipes and rewrite them to fit your organisational point of view.  We have licensed this cookbook and all it recipes within it via a "creative-commons-share-alike" license which means you should expect other people to come along and copy your recipes so they can rewrite them as well <-- think about all the lovely new dishes we'll be able to share with one another!
 
