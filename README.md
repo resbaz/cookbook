@@ -20,7 +20,7 @@ As you can see by the above, we do not like to discrimnate on who can call thems
 
 Rather, we believe that great research teams will be a group of richly diverse people whom all have an equally important part in bringing the research idea (via publication of TED talk) to the world... Welcome to the Bazaar (more on why we call this the "research bazaar" (aka #ResBaz later).
 
-![Well maybe a research team which is a bit more functional than this :-/ - Yet this is where you can help!](http://www.phdcomics.com/comics/archive/phd060406s.gif)
+![Well maybe a research team which is a bit more functional than this](http://www.phdcomics.com/comics/archive/phd060406s.gif)
 
 The kinds of people who typically read the recipes in this cookbook and contribute their own recipes include (but are not limited to):
 
