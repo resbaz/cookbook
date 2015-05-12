@@ -7,7 +7,7 @@ This cookbook is for support staff working with researchers helping you do your 
 
 The recipes in this book are intended to help you cope with these people called "researchers" (difficult customers as they are, it is worth it).  And by "researcher" we mean any and all of the following:
 
-  * senior researchers (those who roam the halls of the ivory tower and often own their own castle/cathedral on campus, usually with titles from the medieval ages such as chancellor, associate professor, deputy associate dean, professor, associate professor, provost, chair and the last but certainly not least the all powerful "reader"!)
+  * Senior researchers (those who roam the halls of the ivory tower and often own their own castle/cathedral on campus, usually with titles from the medieval ages such as chancellor, associate professor, deputy associate dean, professor, associate professor, provost, chair and the last but certainly not least the all powerful "reader"!)
   * Sixth form students who are looking to go onto University and change the world.  Old souls in young bods who could be the next Stephen Hawking or Rosalind Franklin (did you know most Noble Peace Prize winners had their 'Eureka moments' before the age of 35!)
   * Middle carreer researchers, who work day and night, weekends and holidays.  The smart kids who are also brainiac endurance athletes who are fighting against all odds to make a carreer for themselves as revered researcher.
   * Undergraduates who show promise in their studious behaviour and even have some plausible ideas for experiments which can build on the research work of their professors.  Some of these brave souls might even have a brilliant idea for a startup making research valuable to the masses!
