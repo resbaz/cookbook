@@ -22,21 +22,15 @@ Rather, we believe that great research teams will be a group of richly diverse p
 
 The kinds of people who typically read the recipes in this cookbook and contribute their own recipes include (but are not limited to):
 
-  * "the geek" in your lab or department whom everyone always comes to for 'IT help'.
-  * Are you one of those people in the IT departent, endlessly roaming the halls asking if 
-  * Do you sit on a helpdesk or call centre
-  * Are you a librarian in a small school library, a large University library, a faculty library or online working with a digital library, scholarly publication repository or research datacentre? 
-  * foobar...
+  * "that geek in the lab" department whom everyone always comes to for 'IT help'.
+  * IT Support for your local research faculty, way overtasked with way too much to do for all the researchers whom you are responsible for helping.
+  * Helpdesk or call centre, with a never end barrage of questions, of which the answer is "have you tried turning it off and on again?"
+  * Librarian who wants to help researchers with the latest digital research tools but not sure where to begin?!
+  * Or perhaps you are like us: one of the new up and coming central University departments dedicated to helping researchers with digital tooling and data?!  (Hint: we help you with all those research tools which are not Microsoft Office).
 
 Ok enough on whom and why you should read this, and onto the recipes!
 
 Ah wait, one more thing!  This cookbook has been written via GitHub so that anyone can come along and rewrite it!  In fact, we have used the metaphor of "cookbook" so that you can take any of the recipes and rewrite them to fit your organisational point of view.  We have licensed this cookbook and all it recipes within it via a "creative-commons-share-alike" license which means you should expect other people to come along and copy your recipes so they can rewrite them as well <-- think about all the lovely new dishes we'll be able to share with one another!
 
-The recipes in this cookbook are broadly categorised in three chapters:
-
-  # Chapter 1: ResBaz Campaign Recipes
-  # Chapter 2: ResBaz Community Recipes
-  # Chapter 3: ResBaz Conference Recipes
-
-The reason we have split these three chapters out is because we believe you can start with any of recipes in any order of this cookbook however as you make your way through each recipe you'll wonder: "which recipe should I try next" and naturally we would suggest you continue making your way through the chapter in which you have been working.
+So what are you waiting for, head over to the wiki now and check out the ResBaz Recipes: https://github.com/resbaz/cookbook/wiki
 
