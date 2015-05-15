@@ -6,19 +6,19 @@ A ResBaz conference at your institution can bring together students, researchers
 
 ## Timeline
 
-Date|Step
----------
-April     | Assemble your team
-May       | Determine format
-June      | Create Application Forms & Surveys
-July      | Find Sponsors & Confirm Participation
-August    | Find a Venue
-September | Train the Trainers: Planning
-October   | Recruit Trainers
-November  | Arrange Logistics & Supply
-December  | Begin Promotion
-January   | Continue Promotion
-February  | The Main Event
+Date | Step  
+-----|-----  
+April     | Assemble your team  
+May       | Determine format  
+June      | Create Application Forms & Surveys  
+July      | Find Sponsors & Confirm Participation  
+August    | Find a Venue  
+September | Train the Trainers: Planning  
+October   | Recruit Trainers  
+November  | Arrange Logistics & Supply  
+December  | Begin Promotion  
+January   | Continue Promotion  
+February  | The Main Event  
 
 
 ## April: Assemble your team
