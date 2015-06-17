@@ -5,7 +5,7 @@ This cookbook is for anyone and everyone whose job it is to work with researcher
   * your job description includes the words "research support" or your day-to-day job includes talking and working with researchers in situ.
   * you are interested in how the world is going to change now that researchers are learning to use the latest digital research skills emerging on the Web everyday (afterall machines are themselves excellent research companions with an incredible capacity to lift information in a single bound!).  
 
-(https://pbs.twimg.com/media/CHqhiwtUEAAGic6.png)
+![Yes we'll fly out and train your staff in how to do a ResBaz at your Uni](https://pbs.twimg.com/media/CHqhiwtUEAAGic6.png)
 
 The recipes in this book are intended to help you cope with these people called "researchers" (difficult customers as they are, it is worth it).  And by "researcher" we mean any and all of the following:
 ![By "researcher" we mean anyone at any age or stage in their career](http://cdn.arstechnica.net/wp-content/uploads/2011/09/phd072011s-4e6f64b-intro.gif)
