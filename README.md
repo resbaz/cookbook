@@ -5,6 +5,8 @@ This cookbook is for anyone and everyone whose job it is to work with researcher
   * your job description includes the words "research support" or your day-to-day job includes talking and working with researchers in situ.
   * you are interested in how the world is going to change now that researchers are learning to use the latest digital research skills emerging on the Web everyday (afterall machines are themselves excellent research companions with an incredible capacity to lift information in a single bound!).  
 
+(https://pbs.twimg.com/media/CHqhiwtUEAAGic6.png)
+
 The recipes in this book are intended to help you cope with these people called "researchers" (difficult customers as they are, it is worth it).  And by "researcher" we mean any and all of the following:
 ![By "researcher" we mean anyone at any age or stage in their career](http://cdn.arstechnica.net/wp-content/uploads/2011/09/phd072011s-4e6f64b-intro.gif)
   * Senior researchers (those who roam the halls of the ivory tower and often own their own castle/cathedral on campus, usually with titles from the medieval ages such as chancellor, associate professor, deputy associate dean, professor, associate professor, provost, chair and the last but certainly not least the all powerful "reader"!)
